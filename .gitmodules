@@ -1,0 +1,9 @@
+[submodule "face_recognition_module"]
+	path = face_recognition_module
+	url = https://github.com/ageitgey/face_recognition.git
+[submodule "Adafruit_Python_DHT"]
+	path = Adafruit_Python_DHT
+	url = https://github.com/adafruit/Adafruit_Python_DHT.git
+[submodule "face_recognition"]
+	path = face_recognition
+	url = https://github.com/ageitgey/face_recognition.git
